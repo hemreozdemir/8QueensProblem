@@ -1,2 +1,2 @@
 # 8QueensProblem
-8 Queens promlem in python
+8 Queens problem using hill climbing
